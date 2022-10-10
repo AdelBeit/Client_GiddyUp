@@ -1,2 +1,2 @@
-# Client_GiddyUp
+# Client: GiddyUp
 Freelance business lead generation site
